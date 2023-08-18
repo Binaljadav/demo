@@ -1,0 +1,92 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "aa",
+      "author": "bb"
+    },
+    {
+      "id": 3,
+      "title": "aa",
+      "author": "bb"
+    },
+    {
+      "id": 4,
+      "title": "cc",
+      "author": "cc"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "users": [
+    {
+      "name": "parth jadav patel",
+      "username": "parth",
+      "email": "part@gmail.com",
+      "phone": "08787898765",
+      "website": "Binal raviSAS",
+      "id": 1
+    },
+    {
+      "name": "parth jadav dcd",
+      "username": "",
+      "email": "part@gmail.com",
+      "phone": "08787898765",
+      "website": "",
+      "id": 2
+    },
+    {
+      "name": "parth patel",
+      "username": "parth",
+      "email": "part@gmail.com",
+      "phone": "08787898765",
+      "website": "Binal raviSAS",
+      "id": 3
+    },
+    {
+      "name": "Binal ravi patel",
+      "username": "",
+      "email": "part@gmail.com",
+      "phone": "08787898765",
+      "website": "",
+      "id": 4
+    },
+    {
+      "name": "parth jadav",
+      "username": "",
+      "email": "part@gmail.com",
+      "phone": "08787898765",
+      "website": "",
+      "id": 5
+    },
+    {
+      "name": "bina",
+      "username": "binal",
+      "email": "h1@gmail.com",
+      "phone": "816007399",
+      "website": "aaa",
+      "id": 7
+    },
+    {
+      "name": "Bharagav",
+      "username": "bhargav",
+      "email": "bhargav15@gmail.com",
+      "phone": "7800054545623",
+      "website": "bhargav_satavara",
+      "id": 8
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
